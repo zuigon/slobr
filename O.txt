@@ -1,0 +1,13 @@
+* Unos:
+    Text
+* Ispis:
+    poredak:
+        *slovo*: *broj ponavljanja u textu*
+
+
+-> UNOS > @Var -> Lines -> Broji_slova() -> @Hash
+                        -> sort()
+                        -> ispis()
+
+TODO:
+  --top5
